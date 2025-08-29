@@ -1,5 +1,5 @@
 {
-    "name": "siska/laravel-hello",
+    "name": "robisetiawan/laravel-test-package",
     "description": "Simple Laravel Hello Package",
     "type": "library",
     "license": "MIT",
