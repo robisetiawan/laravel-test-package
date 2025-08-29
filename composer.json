@@ -1,0 +1,20 @@
+{
+    "name": "siska/laravel-hello",
+    "description": "Simple Laravel Hello Package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Robi\\Hello\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Robi\\Hello\\HelloServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
